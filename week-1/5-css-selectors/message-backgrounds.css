@@ -1,4 +1,10 @@
 /* Add your CSS code below */
-div {
-  background-color: yellow;
+#first-message {
+  background: red;
+}
+article {
+  background: cadetblue;
+}
+.message--latest {
+  background: yellow;
 }
