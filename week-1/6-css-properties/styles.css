@@ -1,12 +1,8 @@
 /* Add your CSS code below */
 
-a:link {
+a {
   text-decoration: none;
-}
-a:link {
   font-weight: bold;
-}
-a:link {
   color: red;
 }
 .message__time {
@@ -16,7 +12,7 @@ a:link {
   border-left-style: solid;
   border-color: blue;
 }
-.message {
+.message__time--old {
   opacity: 0.5;
 }
 .message__content {
